@@ -1,6 +1,8 @@
 # This is a test of h1
 ###### This is a test of H6
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ``` python
 import os
@@ -20,3 +22,4 @@ while True:
         # Si reponseFaim n'est ni égal à "o", ni égal à "n"
         print("Veuillez répondre par (o) ou (n) SVP : ")
 ```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
